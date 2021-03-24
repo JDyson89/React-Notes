@@ -1,10 +1,10 @@
 import './App.css';
-import StudentList from "./components/StudentList/StudentList.component"
+import StudentList2 from './components/StudentList2/StudentList2.component'
 
 function App(){
   return(
       <div>
-        <StudentList/>
+        <StudentList2/>
       </div>
   )
 }
